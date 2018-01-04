@@ -1,0 +1,23 @@
+{
+  "name": "hw11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girafa4/flashCardGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girafa4/flashCardGenerator/issues"
+  },
+  "homepage": "https://github.com/girafa4/flashCardGenerator#readme",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "nodemon": "^1.14.7"
+  }
+}
